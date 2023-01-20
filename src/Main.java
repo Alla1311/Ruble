@@ -13,7 +13,7 @@ public class Main {
         }
         balance = balance + replenishment + bonus;
 
-                System.out.println(" Количество бонусов: " + bonus);
+        System.out.println(" Количество бонусов: " + bonus);
         System.out.println(" Итоговый баланс: " + balance);
 
     }
